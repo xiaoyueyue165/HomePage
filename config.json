@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
+		"title": "Xiaoyueyue 的个人网站",
 		"description": "Author:SimonMa,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Rainbow",
+		"subtitle": "In God is our trust.",
 		"enter": "enter",
 		"supportAuthor": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Rainbow",
+		"signature": "基督徒 | 歌者 | Web developer",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "80",
@@ -20,7 +20,7 @@
 		},
 		"ul": {
 			"whole_first": {
-				"href": "blog/",
+				"href": "issue-blog/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -30,24 +30,24 @@
 				"text": "About"
 			},
 			"half_first": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:xiaoyueyue165@gmail.com",
 				"icon": "email",
 				"text": "Contact me"
 			},
 			"quarter_first": {
-				"href": "assets/wechat.jpg",
+				"href": "assets/wechat.png",
 				"icon": "wechat",
 				"height": "95",
 				"width": "95",
 				"text": "Wechat"
 			},
 			"quarter_second": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/xiaoyueyue165",
 				"icon": "github",
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://twitter.com/amSimonMa",
+				"href": "https://twitter.com/xiaoyueyue165",
 				"icon": "twitter",
 				"text": "Twitter"
 			},
