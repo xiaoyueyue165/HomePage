@@ -1,6 +1,6 @@
 {
 	"head": {
-		"title": "Xiaoyueyue 的个人网站",
+		"title": "闫越的个人网站 - Yan Yue's Personal Website",
 		"description": "Author:SimonMa,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
@@ -42,12 +42,12 @@
 				"text": "Wechat"
 			},
 			"quarter_second": {
-				"href": "https://github.com/xiaoyueyue165",
+				"href": "https://github.com/yanyue404",
 				"icon": "github",
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://twitter.com/xiaoyueyue165",
+				"href": "https://twitter.com/yanyue404",
 				"icon": "twitter",
 				"text": "Twitter"
 			},
