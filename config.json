@@ -20,7 +20,7 @@
 		},
 		"ul": {
 			"whole_first": {
-				"href": "issue-blog/",
+				"href": "blog/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
